@@ -61,4 +61,8 @@ int main()
     char name1[20];
     gets(name1);
     printf("value of name1: %s\n", name1);
+
+    int a;
+    scanf("%d", a);
+    printf("value of a: %d", a);
 }
