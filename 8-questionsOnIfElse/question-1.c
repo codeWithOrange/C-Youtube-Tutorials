@@ -9,7 +9,7 @@
 Write a program to determine the type of a triangle (equilateral, isosceles, or scalene) based on the lengths of its sides using nested if-else.
 
 
-Write a program to find the roots of a quadratic equation. Use if-else to check for real roots, imaginary roots, or repeated roots. ax^2+bx+c;
+Write a program to find the roots of a quadratic equation. Use if-else to check for real roots, imaginary roots, or repeated roots. ax^2+bx+c;D=b^2-4ac
 */
 
 #include <stdio.h>
